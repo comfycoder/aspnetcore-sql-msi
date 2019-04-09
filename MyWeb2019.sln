@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWeb2019", "MyWeb2019\MyWeb2019.csproj", "{730D95F2-429D-4D9F-A7CC-D43B5B491449}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8D169986-DE33-4AA5-96BA-3A03320210C2}"
+	ProjectSection(SolutionItems) = preProject
+		.dockerignore = .dockerignore
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730D95F2-429D-4D9F-A7CC-D43B5B491449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730D95F2-429D-4D9F-A7CC-D43B5B491449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730D95F2-429D-4D9F-A7CC-D43B5B491449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730D95F2-429D-4D9F-A7CC-D43B5B491449}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61699DE4-6502-4C08-BF7E-B0F39F1F147A}
+	EndGlobalSection
+EndGlobal
